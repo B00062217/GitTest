@@ -1,3 +1,5 @@
+**** ADDING RANDOM CHANGES ****
+
 ---- INSTALL GIT FOR USE OF GIT COMMANDS IN COMMAND LINE ----
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
@@ -19,6 +21,7 @@ git commit -m "message here" (-m adds message)
 
 git push (syncs with github)
 
+**** ADDING RANDOM CHANGES ****
 git pull (pulls files from github to local repository)
 
 esc:wq (Exit cmd after commit with no message)
