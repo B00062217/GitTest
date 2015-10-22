@@ -1,0 +1,32 @@
+---- INSTALL GIT FOR USE OF GIT COMMANDS IN COMMAND LINE ----
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+---- WINDOWS COMMANDS ----
+cd
+dir (ls)
+
+---- GIT COMMANDS --------
+git clone [URL]
+
+git status (shows dif between local/github files)
+
+git add [filename] (adds files or changes by name)
+git add . (everything in directory)
+git add -A (-A All)
+
+git commit (commits to repository)
+git commit -m "message here" (-m adds message)
+
+git push (syncs with github)
+
+git pull (pulls files from github to local repository)
+
+esc:wq (Exit cmd after commit with no message)
+
+git branch (displays branches)
+
+git branch [branchName] (creates new branch copy of current branch)
+
+git checkout [branchName] (changes current branch to named Branch)
+
+git merge [branchName] (attempts to merge BranchName changes with current branch)
